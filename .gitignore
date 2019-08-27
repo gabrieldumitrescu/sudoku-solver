@@ -89,6 +89,16 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+bin/
+include/
+lib/
+lib64
+share/
+pyvenv.cfg
+
+#pygame files
+logging
+pygame
 
 # Spyder project settings
 .spyderproject
